@@ -3,7 +3,7 @@ import { defineUserConfig, defaultTheme } from "vuepress";
 export default defineUserConfig({
   lang: "zh-CN",
   title: "软工部分作业",
-  base: "/sehomework-doc/",
+  base: "/sehomework/",
   theme: defaultTheme({
     navbar: [
       {
